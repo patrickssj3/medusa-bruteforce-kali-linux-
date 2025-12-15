@@ -1,3 +1,26 @@
+## 🌍 English Summary
+
+This project was developed for **educational and portfolio purposes**, using a controlled laboratory environment.
+
+### Project Overview
+The objective of this project is to demonstrate brute-force attack techniques against different services using **Kali Linux**, **Medusa**, **Hydra**, and **Nmap**.
+
+### Tools and Techniques
+- Network scanning with **Nmap**
+- FTP brute-force attack using **Medusa**
+- Web form brute-force attack (DVWA) using **Hydra**
+- SMB authentication testing using **Medusa**
+
+### Key Learnings
+- Understanding how brute-force attacks work on different services
+- Identifying weak credentials and misconfigurations
+- Importance of strong password policies and security controls
+- Proper documentation of security testing activities
+
+⚠️ All tests were performed **only in a controlled lab environment** for learning purposes.
+
+
+
 # Desafio Prático – Ataques de Força Bruta com Kali Linux e Medusa
 
 > ⚠️ **Aviso Legal**: Todas as atividades descritas neste projeto foram realizadas **exclusivamente em ambiente controlado de laboratório**, com máquinas intencionalmente vulneráveis. Nenhuma técnica aqui apresentada deve ser utilizada sem autorização explícita.
