@@ -141,18 +141,24 @@ Recomendações para reduzir os riscos identificados:
 
 ## 📁 Estrutura do Repositório
 
-```
 📦 projeto-medusa-kali
- ┣ 📂 images
- ┃ ┣ ftp_medusa.png
- ┃ ┣ web_hydra.png
- ┃ ┗ smb_medusa.png
  ┣ 📂 wordlists
  ┃ ┣ ftp_password.txt
  ┃ ┣ web_password.txt
  ┃ ┗ users.txt
- ┗ README.md
-```
+ ┣ 📄 README.md
+ ┣ 🖼️ nmap_scan.png
+ ┣ 🖼️ ftp_medusa1.png
+ ┣ 🖼️ ftp_medusa2.png
+ ┣ 🖼️ web_hydra1.png
+ ┣ 🖼️ web_hydra2.png
+ ┣ 🖼️ smb1.png
+ ┣ 🖼️ smb2.png
+ ┣ 🖼️ smb3.png
+ ┣ 🖼️ smb4.png
+ ┣ 🖼️ smb5.png
+ ┣ 🖼️ smb6.png
+ ┗ 🖼️ smb7.png
 
 ---
 
