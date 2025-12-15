@@ -162,27 +162,56 @@ Este projeto demonstrou, de forma prática, como ataques de força bruta podem c
 
 O laboratório contribuiu significativamente para o desenvolvimento de habilidades em **cibersegurança ofensiva**, análise de vulnerabilidades e documentação técnica.
 
+## 📌 Evidências Técnicas
+
 ---
 
-📌 **Projeto desenvolvido para fins educacionais e de portfólio técnico (DIO).**
-## Evidências
+## 🔍 Varredura de Rede — Nmap
 
-### Nmap
-![Nmap](nmap_scan.png)
+Identificação dos serviços ativos no host alvo, incluindo portas FTP, HTTP e SMB.
 
-### FTP
-![FTP](ftp_medusa1.png)
-![FTP](ftp_medusa2.png)
+![Nmap Scan](nmap_scan.png)
 
-### Web
-![Web](web_hydra1.png)
-![Web](web_hydra2.png)
+---
 
-### SMB
-![SMB](smb1.png)
-![SMB](smb2.png)
-![SMB](smb3.png)
-![SMB](smb4.png)
-![SMB](smb5.png)
-![SMB](smb6.png)
-![SMB](smb7.png)
+## 📂 Ataque ao Serviço FTP — Medusa
+
+Ataque de força bruta realizado no serviço FTP utilizando a ferramenta Medusa, resultando na descoberta de credenciais válidas.
+
+**Evidências:**
+- Tentativas de autenticação
+- Credencial válida encontrada
+
+![FTP Medusa](ftp_medusa1.png)
+![FTP Medusa](ftp_medusa2.png)
+
+---
+
+## 🌐 Ataque à Aplicação Web (DVWA) — Hydra
+
+Ataque de força bruta ao formulário de login da aplicação DVWA utilizando a ferramenta Hydra.
+
+**Evidências:**
+- Envio automatizado de credenciais
+- Logins válidos identificados
+
+![Web Hydra](web_hydra1.png)
+![Web Hydra](web_hydra2.png)
+
+---
+
+## 🗄️ Ataque ao Serviço SMB — Medusa
+
+Enumeração de usuários e tentativa de autenticação no serviço SMB, com acesso autorizado identificado.
+
+**Evidências:**
+- Teste de múltiplos usuários
+- Acesso permitido ao compartilhamento ADMIN$
+
+![SMB Medusa](smb1.png)
+![SMB Medusa](smb2.png)
+![SMB Medusa](smb3.png)
+![SMB Medusa](smb4.png)
+![SMB Medusa](smb5.png)
+![SMB Medusa](smb6.png)
+![SMB Medusa](smb7.png)
