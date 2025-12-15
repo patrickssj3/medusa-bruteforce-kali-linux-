@@ -165,3 +165,24 @@ O laboratório contribuiu significativamente para o desenvolvimento de habilidad
 ---
 
 📌 **Projeto desenvolvido para fins educacionais e de portfólio técnico (DIO).**
+## Evidências
+
+### Nmap
+![Nmap](nmap_scan.png)
+
+### FTP
+![FTP](ftp_medusa1.png)
+![FTP](ftp_medusa2.png)
+
+### Web
+![Web](web_hydra1.png)
+![Web](web_hydra2.png)
+
+### SMB
+![SMB](smb1.png)
+![SMB](smb2.png)
+![SMB](smb3.png)
+![SMB](smb4.png)
+![SMB](smb5.png)
+![SMB](smb6.png)
+![SMB](smb7.png)
